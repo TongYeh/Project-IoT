@@ -1,8 +1,7 @@
 # English vocabulary quiz game
 <p align="center">
-  <img src="./image/img.jpg" alt="image.jpg" width="600" height="500"/>
+  <img src="./image/img.jpg" alt="image.jpg" width="600" height="400"/>
 </p>
-<img src="./image/img.jpg" alt="image.jpg" width="600" height="400">
 > เป็นคำถามที่เกี่ยวกับคำศัพท์ภาษาอังกฤษ และมีคำแปลภาษาไทยต่อท้าย ให้ทายว่าคำแปลตรงกับคำภาษาอังกฤษหรือไม่
 
 โดยมี 2 ตัวเลือก แสดงผลผ่านจอ LCD คือ 
