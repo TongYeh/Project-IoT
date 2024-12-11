@@ -1,6 +1,5 @@
 # English vocabulary quiz game
-![image.jpg](./image/img.jpg)
-<img src="./image/img.jpg" alt="image.jpg" width="400" height="300">
+<img src="./image/img.jpg" alt="image.jpg" width="600" height="300">
 > เป็นคำถามที่เกี่ยวกับคำศัพท์ภาษาอังกฤษ และมีคำแปลภาษาไทยต่อท้าย ให้ทายว่าคำแปลตรงกับคำภาษาอังกฤษหรือไม่
 
 โดยมี 2 ตัวเลือก แสดงผลผ่านจอ LCD คือ 
